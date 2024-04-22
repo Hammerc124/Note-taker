@@ -1,5 +1,5 @@
 # Note-taker
-a not taking application that uses express.js
+a note taking application that uses express.js
 # note-express
 A Note Taker application that can be used to write and save notes powered by Express.js
 ## Table of Contents
