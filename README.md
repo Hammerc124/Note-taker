@@ -53,12 +53,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Preview Images
 - ## Preview 1
-![Website Preview Image](./)
+![Website Preview Image](./public/assets/images/ote-home.png)
 - ## Preview 2
-![Website Preview Image](./)
+![Website Preview Image](./public/assets/images/note-preview.png)
 
 ## Link To Deployed site on Heroku
-**Walkthrough:** [Link To Deployed site on Heroku!]() 
+**Walkthrough:** [Link To Deployed site on Heroku!](https://powerful-lake-15407-94f6a1249586.herokuapp.com//) 
 
 
 ## Installation and Usage
@@ -69,9 +69,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - Run the application using Command: node server.js
 
 This application does not require any installation by the user. It can be used by simply following the live heroku link and then one can start creeating a new note using the "+" button. Once a new note has been given a title and description, it can be saved using the save icon and it will then be added to a list on the left hand side where it can be clicked on to be viewed again.
-
-## Tests
-- There are no tests yet for this application
 
 ## Technologies Used
 Assignment was built with:
